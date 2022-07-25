@@ -1,0 +1,12 @@
+Curtis Leonard (811741858)
+Bryce Liang (811462939)
+
+    To compile: make OR make cl
+    To clean: make clean
+
+
+    Curtis: did ./head and ./tail for 50 points of the project
+
+    Bryce: did ./wc and ./true and ./false and ./env for the other 50 points of the project
+
+    Both equally made the makefile

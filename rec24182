@@ -1,0 +1,14 @@
+Leonard-Curtis-Liang-Bryce-p2/:
+total 48
+-rw-r--r--. 1 myid  226 Jul 22 16:13 env.c
+-rw-r--r--. 1 myid  100 Jul 22 16:12 false.c
+-rw-r--r--. 1 myid  392 Jul 22 11:48 file1.txt
+-rw-r--r--. 1 myid   65 Jul 22 11:49 file2.txt
+-rw-r--r--. 1 myid 5118 Jul 22 13:51 head.c
+-rw-r--r--. 1 myid  255 Jul 22 15:25 makefile
+-rw-r--r--. 1 myid  302 Jul 22 15:18 README
+-rw-r--r--. 1 myid    0 Jul 22 16:17 rec24182
+-rw-r--r--. 1 myid 6087 Jul 22 15:53 tail.c
+-rw-r--r--. 1 myid  101 Jul 22 16:11 true.c
+-rw-r--r--. 1 myid 3701 Jul 22 16:10 wc.c
+/home/myid/cml36252/cs1730/Leonard-Curtis-Liang-Bryce-p2/:/home/myid/csci-1730
